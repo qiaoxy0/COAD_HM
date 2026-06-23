@@ -1,6 +1,6 @@
 # Detecting Hypermutation Status in Colon Adenocarcinoma from Whole Slide Images
 
-![Project Summary](summary.png)
+![Project Summary](https://github.com/qiaoxy0/COAD_HM/blob/main/summary.png)
 
 This repository contains the computational pipeline and deep learning models for predicting **Hypermutation (HM)** status in Colon Adenocarcinoma (COAD) directly from Hematoxylin and Eosin (H&E) stained Whole Slide Images (WSIs). 
 
